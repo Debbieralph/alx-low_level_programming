@@ -1,6 +1,12 @@
 #include <stdio.h>
 
-int main()
+/**
+ * main - Entry
+ *
+ * Return: Always 0 (Success)
+ */
+
+int main(void)
 {
 	char charType;
 	int intType;
