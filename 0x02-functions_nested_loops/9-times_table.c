@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * times_table -print the 9 times table
+ * times_table -Prints the 9 times table
  *
  * Return: no return
  */
 void times_table(void)
 {
 	int a, b, op;
-	
+
 	for (a = 0; a <= 9; a++)
 	{
 		_putchar(48);
